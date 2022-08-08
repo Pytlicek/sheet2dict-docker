@@ -8,8 +8,3 @@ CMD ["python3", "main.py"]
 
 LABEL name=sheet2dict-api
 LABEL version=0.1
-
-
-
-
-faas-cli new --lang dockerfile sample-flask-service
